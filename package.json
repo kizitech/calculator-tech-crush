@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx node calculator.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
